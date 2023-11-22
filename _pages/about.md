@@ -9,7 +9,7 @@ redirect_from:
 ---
 - Ph.D. Candidate in Economics, University of Virginia    
 - Jefferson Scholars Foundation Fellow
-- <a href="http://diego-briones.github.io/files/briones_cv_nov2023"> CV </a> 
+- <a href="http://diego-briones.github.io/files/briones_cv_nov2023.pdf"> CV </a> 
 
 RESEARCH
 ======
