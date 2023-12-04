@@ -35,8 +35,8 @@ Labor Supply Responses to Temporary Liquidity: Evidence from the Student Loan Pa
 
 _OTHER_ _PUBLICATIONS_
 ------
-Revitalizing PSLF: What’s Next After the Waiver 
-: Forthcoming
+<a href="https://www.thirdway.org/report/revitalizing-pslf-whats-next-after-the-waiver" > Revitalizing PSLF: What’s Next After the Waiver 
+: December 2023
 : ***Third Way ACADEMIX Upshot Policy Brief***
 
 
