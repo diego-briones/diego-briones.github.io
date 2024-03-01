@@ -9,12 +9,12 @@ redirect_from:
 ---
 - Ph.D. Candidate in Economics, University of Virginia    
 - Jefferson Scholars Foundation Fellow
-- <a href="http://diego-briones.github.io/files/briones_cv_nov2023.pdf"> CV </a> 
+- <a href="http://diego-briones.github.io/files/briones_cv_feb2024.pdf"> CV </a> 
 
 RESEARCH
 ======
 
-_PUBLISHED_ AND _FORTHCOMING_ _ARTICLES_
+_PUBLISHED_ _AND_ _FORTHCOMING_ _ARTICLES_
 ------
 <a  href="http://diego-briones.github.io/files/PSLF_Waiver_JPAM_103023-combined.pdf"> Waivers for the Public Service Loan Forgiveness Program: Who Would Benefit from Take-up?</a>
 : Accepted (with Nathaniel Ruby and Sarah Turner)
