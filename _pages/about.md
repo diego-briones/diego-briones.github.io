@@ -9,29 +9,36 @@ redirect_from:
 ---
 - Ph.D. Candidate in Economics, University of Virginia    
 - Jefferson Scholars Foundation Fellow
-- <a href="http://diego-briones.github.io/files/briones_cv_feb2024.pdf"> CV </a> 
+- <a href="http://diego-briones.github.io/files/briones_CV_march2025.pdf"> CV </a> 
 
 RESEARCH
 ======
 
-_PUBLISHED_ _AND_ _FORTHCOMING_ _ARTICLES_
+_WORKING PAPERS_
+------
+<a href="http://diego-briones.github.io/files/updated_manuscript_paypause_Ls_briones_turner_.pdf"> Labor, Loans, and Leisure, The Impact of the Student Loan Payment Pause </a>
+: with Sarah Turner
+: March 2025
+
+_PUBLICATIONS_
 ------
 <a  href="http://diego-briones.github.io/files/PSLF_Waiver_JPAM_103023-combined.pdf"> Waivers for the Public Service Loan Forgiveness Program: Who Would Benefit from Take-up?</a>
-: Accepted (with Nathaniel Ruby and Sarah Turner)
-: ***Journal of Policy Analysis and Management*** <br /> 
+: 2024 (with Nathaniel Ruby and Sarah Turner)
+: ***Journal of Policy Analysis and Management***, 43, 1004–1033.  <br />
 <a href="http://diego-briones.github.io/files/PSLF_Waiver_OnlineAppendix_BrionesRubyTurner_10_30_23.pdf"> Online appendix </a>  | 
 <a href="https://www.nber.org/papers/w30208"> NBER working paper #30208 </a> <br /> 
 
 
 _WORK_ _IN_ _PROGRESS_
 ------
+
+Voting on a Promise: Did the Proposed Student Loan Forgiveness Impact Electoral Outcomes?
+: with Arnav Dharmagadda and Jaden Shawyer
+
 **A Fresh Start for Borrowers? Impacts of Loan Rehabilitation for Defaulted Federal Student Borrowers**
 
 The Long Term Impacts of English Learner Programs: Evidence from Bilingual Education in Texas
 : University of Houston Education Research Center Approved Project No. UH 037
-
-Labor Supply Responses to Temporary Liquidity: Evidence from the Student Loan Payment Pause
-: with Sarah Turner
 
 _OTHER_ _PUBLICATIONS_
 ------
