@@ -16,9 +16,10 @@ RESEARCH
 
 _WORKING PAPERS_
 ------
-<a href="http://diego-briones.github.io/files/updated_manuscript_paypause_Ls_briones_turner_.pdf"> Labor, Loans, and Leisure, The Impact of the Student Loan Payment Pause </a>
+<a href="http://diego-briones.github.io/files/updated_manuscript_paypause_Ls_briones_turner_.pdf"> Labor, Loans, and Leisure: The Impact of the Student Loan Payment Pause </a>
 : with Sarah Turner
-: March 2025
+: March 2025 <br />
+<a href="https://www.nber.org/papers/w33553"> NBER working paper #33553 </a> <br /> 
 
 _PUBLICATIONS_
 ------
