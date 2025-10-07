@@ -16,9 +16,13 @@ RESEARCH
 
 _WORKING PAPERS_
 ------
+<a href="http://diego-briones.github.io/files/briones_forgiveness_voting_10_25.pdf"> Voting on a Promise: Did the Proposed Student Loan Forgiveness Impact Electoral Outcomes? </a>
+: with Arnav Dharmagadda and Jaden Shawyer
+: October 2025 *Under Review* <br /> 
+
 <a href="http://diego-briones.github.io/files/updated_manuscript_paypause_Ls_briones_turner_.pdf"> Labor, Loans, and Leisure: The Impact of the Student Loan Payment Pause </a>
 : with Sarah Turner
-: March 2025 <br />
+: March 2025 *Under Review* <br />
 <a href="https://www.nber.org/papers/w33553"> NBER working paper #33553 </a> <br /> 
 
 _PUBLICATIONS_
@@ -33,8 +37,7 @@ _PUBLICATIONS_
 _WORK_ _IN_ _PROGRESS_
 ------
 
-Voting on a Promise: Did the Proposed Student Loan Forgiveness Impact Electoral Outcomes?
-: with Arnav Dharmagadda and Jaden Shawyer
+**Credit Scars: Credit Reporting Relief for Defaulted Student Loan Borrowers** 
 
 **A Fresh Start for Borrowers? Impacts of Loan Rehabilitation for Defaulted Federal Student Borrowers**
 
