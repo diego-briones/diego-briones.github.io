@@ -1,21 +1,29 @@
 ---
 permalink: /
-title: "ABOUT"
+title: "Diego A. Briones"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-- Ph.D. Candidate in Economics, University of Virginia    
-- Jefferson Scholars Foundation Fellow
-- <a href="http://diego-briones.github.io/files/briones_CV_march2025.pdf"> CV </a> 
 
-RESEARCH
-======
+I am a Ph.D. Candidate in Economics at the University of Virginia
 
-_WORKING PAPERS_
-------
+**I am on the 2025-26 job market**
+
+My Curriculum Vitae is available here: <a href="http://diego-briones.github.io/files/briones_CV_march2025.pdf"> CV </a> 
+
+
+## Research
+
+### Job Market Paper
+**Credit Scars: Credit Reporting Relief for Defaulted Student Loan Borrowers** 
+
+---
+
+### Working Papers
+
 <a href="http://diego-briones.github.io/files/briones_forgiveness_voting_10_25.pdf"> Voting on a Promise: Did the Proposed Student Loan Forgiveness Impact Electoral Outcomes? </a>
 : with Arnav Dharmagadda and Jaden Shawyer
 : October 2025 *Under Review* <br /> 
@@ -25,27 +33,29 @@ _WORKING PAPERS_
 : March 2025 *Under Review* <br />
 <a href="https://www.nber.org/papers/w33553"> NBER working paper #33553 </a> <br /> 
 
-_PUBLICATIONS_
-------
+---
+
+### Publications
+
 <a  href="http://diego-briones.github.io/files/PSLF_Waiver_JPAM_103023-combined.pdf"> Waivers for the Public Service Loan Forgiveness Program: Who Would Benefit from Take-up?</a>
 : 2024 (with Nathaniel Ruby and Sarah Turner)
 : ***Journal of Policy Analysis and Management***, 43, 1004–1033.  <br />
 <a href="http://diego-briones.github.io/files/PSLF_Waiver_OnlineAppendix_BrionesRubyTurner_10_30_23.pdf"> Online appendix </a>  | 
 <a href="https://www.nber.org/papers/w30208"> NBER working paper #30208 </a> <br /> 
 
+---
 
-_WORK_ _IN_ _PROGRESS_
-------
-
-**Credit Scars: Credit Reporting Relief for Defaulted Student Loan Borrowers** 
+### Work in Progress
 
 **A Fresh Start for Borrowers? Impacts of Loan Rehabilitation for Defaulted Federal Student Borrowers**
 
 The Long Term Impacts of English Learner Programs: Evidence from Bilingual Education in Texas
 : University of Houston Education Research Center Approved Project No. UH 037
 
-_OTHER_ _PUBLICATIONS_
-------
+---
+
+### Other Publications
+
 <a href="https://www.thirdway.org/report/revitalizing-pslf-whats-next-after-the-waiver" > Revitalizing PSLF: What’s Next After the Waiver 
 : December 2023
 : ***Third Way ACADEMIX Upshot Policy Brief***
