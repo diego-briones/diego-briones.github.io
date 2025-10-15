@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DIEGO A. BRIONES"
+title                    : "RESEARCH"
 title_separator          : "-"
 name                     : &name "Diego A. Briones"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "CONTACT"
-  avatar           : "briones_hs_22.jpg"
+  avatar           : "briones_hs_24.jpg"
   bio              : "Department of Economics <br> University of Virginia <br> Email: dab5xq@virginia"
   location         : 
   employer         :

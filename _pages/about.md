@@ -12,7 +12,7 @@ I am a Ph.D. Candidate in Economics at the University of Virginia
 
 **I am on the 2025-26 job market**
 
-My Curriculum Vitae is available here: <a href="http://diego-briones.github.io/files/briones_CV_march2025.pdf"> CV </a> 
+My Curriculum Vitae is available here: <a href="http://diego-briones.github.io/files/briones_cv_oct25.pdf"> CV </a> 
 
 
 ## Research
