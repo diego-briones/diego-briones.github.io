@@ -27,11 +27,13 @@ redirect_from:
   }
 </style>
 
-I am a Ph.D. Candidate in Economics at the University of Virginia
+I am a Ph.D. Candidate in Economics at the University of Virginia. I am an applied microeconomist with research interests in labor economics, public economics, economics of education, and household finance. My current research largely focuses on the economic consequences of government education financing programs, with a particular emphasis on student debt and consumer credit markets. 
 
 **I am on the 2025-26 job market**
 
-My Curriculum Vitae is available here: <a href="http://diego-briones.github.io/files/briones_cv_oct25.pdf"> CV </a> 
+My dissertation work is supported in part by the <a href="https://www.jeffersonscholars.org/" target="_blank" rel="noopener noreferrer"> Jefferson Scholars Foundation</a>, the <a href="https://www.slli.org/emerging-scholars-program" target="_blank" rel="noopener noreferrer"> University of California, Student Loan Law Initiative</a>, and the <a href="https://research.virginia.edu/initiatives/internal-funding/ovpr-funding-opportunities/bankard-fund-political-economy" target="_blank" rel="noopener noreferrer"> Bankard Fund for Political Economy </a>.
+
+Email: <a href="mailto:dab5xq@virginia.edu">dab5xq@virginia.edu</a>. My Curriculum Vitae is available here: <a href="http://diego-briones.github.io/files/briones_cv_oct25.pdf"> CV </a> 
 
 
 ## Research
@@ -52,8 +54,7 @@ My Curriculum Vitae is available here: <a href="http://diego-briones.github.io/f
      Student loan forgiveness has featured prominently in the political debate around policy
  responses to address rising debt burdens, yet there is strikingly little evidence of its
  electoral implications. We study the consequences of the 2022 broad-based debt relief
- program implemented by the Biden administration less than a month before the Novem
-ber midterm elections. Using geographic information on over 25 million applications
+ program implemented by the Biden administration less than a month before the November midterm elections. Using geographic information on over 25 million applications
  for cancellation benefits, we document the program’s influence on congressional races.
  Counties where a higher share of the voting-age population submitted applications
  had higher vote shares for Democratic party candidates. Program exposure does not
