@@ -31,7 +31,7 @@ I am a Ph.D. Candidate in Economics at the University of Virginia. I am an appli
 
 **I am on the 2025-26 job market**
 
-My dissertation work is supported in part by the <a href="https://www.jeffersonscholars.org/" target="_blank" rel="noopener noreferrer"> Jefferson Scholars Foundation</a>, the <a href="https://www.slli.org/emerging-scholars-program" target="_blank" rel="noopener noreferrer"> University of California, Student Loan Law Initiative</a>, and the <a href="https://research.virginia.edu/initiatives/internal-funding/ovpr-funding-opportunities/bankard-fund-political-economy" target="_blank" rel="noopener noreferrer"> Bankard Fund for Political Economy </a>.
+My dissertation work is supported in part by the <a href="https://www.jeffersonscholars.org/" target="_blank" rel="noopener noreferrer"> Jefferson Scholars Foundation</a>, the <a href="https://www.slli.org/emerging-scholars-program" target="_blank" rel="noopener noreferrer"> University of California, Student Loan Law Initiative</a>, and the <a href="https://research.virginia.edu/initiatives/internal-funding/ovpr-funding-opportunities/bankard-fund-political-economy" target="_blank" rel="noopener noreferrer"> Bankard Fund for Political Economy</a>.
 
 Email: <a href="mailto:dab5xq@virginia.edu">dab5xq@virginia.edu</a>. My Curriculum Vitae is available here: <a href="http://diego-briones.github.io/files/briones_cv_oct25.pdf"> CV </a> 
 
