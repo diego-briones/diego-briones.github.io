@@ -40,6 +40,26 @@ Email: <a href="mailto:dab5xq@virginia.edu">dab5xq@virginia.edu</a>. My Curricul
 
 ### Job Market Paper
 <a href="http://diego-briones.github.io/files/briones_jmp.pdf">**Credit Scars: Credit Reporting Relief for Defaulted Student Loan Borrowers** </a>
+: <details style="display: inline-block; vertical-align: middle;">
+	<summary> Abstract</summary>
+    <p style="text-align: left; margin-top: 10px;">
+      Over one in five student loan borrowers eventually defaults, leaving a persistent black
+mark on their credit reports. These borrowers disproportionately attended low-return
+institutions and come from disadvantaged backgrounds, raising concerns that credit
+record penalties may be restricting economic mobility. I estimate the causal effect of
+removing student loan default records from credit reports by leveraging their automatic
+removal under the seven-year Fair Credit Reporting Act (FCRA) threshold, which I
+establish as the primary mechanism for student loan default record clearance. Using a
+nationally representative panel of quarterly administrative credit bureau records and a
+stacked difference-in-differences design, I find that record removal boosts credit scores
+by 15 points and spurs significant new borrowing across mortgage, auto, and credit
+card markets, primarily on the extensive margin. These results indicate that default
+records continued to function as barriers to credit long after the initial financial distress.
+The value that individuals place on increased access to credit more than seven years
+after the initial default event suggests significant private and social returns to programs
+that successfully rehabilitate defaults or to programs intended to prevent default.
+  </p>
+<br /> 
 
 ---
 
