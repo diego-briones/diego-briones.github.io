@@ -39,7 +39,7 @@ Email: <a href="mailto:dab5xq@virginia.edu">dab5xq@virginia.edu</a>. My Curricul
 ## Research
 
 ### Job Market Paper
-**Credit Scars: Credit Reporting Relief for Defaulted Student Loan Borrowers** 
+<a href="http://diego-briones.github.io/files/briones_jmp.pdf">Credit Scars: Credit Reporting Relief for Defaulted Student Loan Borrowers </a>
 
 ---
 
