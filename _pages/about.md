@@ -87,7 +87,7 @@ that successfully rehabilitate defaults or to programs intended to prevent defau
 
 <a href="http://diego-briones.github.io/files/updated_manuscript_paypause_Ls_briones_turner_.pdf"> Labor, Loans, and Leisure: The Impact of the Student Loan Payment Pause </a>
 : with Sarah Turner
-: March 2025 (Under Review)
+: March 2025, **Revise and resubmit at the** ***Review of Economics and Statistics***
 : <a href="https://www.nber.org/papers/w33553"> NBER working paper #33553 </a> 
 : <details style="display: inline-block; vertical-align: middle;">
 	<summary> Abstract</summary>
