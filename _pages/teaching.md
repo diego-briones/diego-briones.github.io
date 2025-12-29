@@ -6,6 +6,9 @@ author_profile: true
 
 ## University of Virginia
 
+**ECON 3720: Introduction to Econometrics**
+: Spring 2026
+
 **ECON 3040: Economics of Education**
 : Fall 2025
 
