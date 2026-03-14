@@ -13,7 +13,7 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.6;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -112,6 +112,11 @@ blockquote {
 /* links */
 
 a {
+  color: $link-color;
+  text-decoration: none !important; // Kill browser default
+  border-bottom: 1px solid rgba($link-color, 0.3);
+  transition: all 0.2s ease-in-out;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -119,6 +124,8 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    color: $link-color-hover;
+    border-bottom: 1px solid $link-color-hover;
   }
 }
 

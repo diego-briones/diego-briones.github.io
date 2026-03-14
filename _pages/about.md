@@ -11,19 +11,36 @@ redirect_from:
 <style>
   summary {
     cursor: pointer;
-    list-style: none; /* This removes the default triangle */
+    list-style: none;
+    font-weight: 500;
+    color: #7f8c8d;
+    transition: color 0.2s ease;
   }
 
   summary::-webkit-details-marker {
-    display: none; /* Also needed for some browsers */
+    display: none;
   }
 
   summary:before {
-    content: '[+] '; /* This adds the [+] before your text */
+    content: '[+] ';
   }
 
   details[open] > summary:before {
-    content: '[-] '; /* This changes it to [-] when open */
+    content: '[-] ';
+  }
+
+  summary:hover {
+    color: #2980b9;
+  }
+
+  /* Smooth fade-in for abstract */
+  details[open] p {
+    animation: fadeIn 0.4s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
   }
 </style>
 

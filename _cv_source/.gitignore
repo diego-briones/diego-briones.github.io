@@ -1,0 +1,10 @@
+# Ignore LaTeX temporary files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.blg
+*.bbl
