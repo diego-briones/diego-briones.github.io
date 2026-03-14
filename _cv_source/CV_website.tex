@@ -1,0 +1,196 @@
+% LaTeX Curriculum Vitae Template (One-Page Version for Academic Economists)
+% Original Copyright (C) 2004-2008 Jason Blevins
+% Modifications by Gemini for Diego Briones
+
+\documentclass[letterpaper, 11pt]{article}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{lmodern}
+\usepackage[osf]{mathpazo}
+\usepackage{fancyhdr}
+
+\hypersetup{
+  colorlinks,
+  urlcolor = blue,
+  pdfauthor={Diego Briones},
+  pdfkeywords={economics},
+  pdftitle={Curriculum Vitae},
+  pdfsubject={Curriculum Vitae},
+  pdfpagemode=UseNone
+}
+
+% --- KEY CHANGES FOR ONE-PAGE LAYOUT ---
+% Adjusted geometry for tighter margins and more text height
+\geometry{textheight=8.5in, textwidth=6in, top=0.25in, bottom=0.5in, left=0.25in, right=0.25in}
+
+% Setup footer with page numbers and last updated
+\pagestyle{fancy}
+\fancyhf{} % Clear all header and footer fields
+\renewcommand{\headrulewidth}{0pt} % Remove header line
+\fancyfoot[C]{\footnotesize Last updated: \today \hspace{2em} Page \thepage}
+
+% --- TITLES AND SPACING (Replaces sectsty) ---
+\usepackage{titlesec}
+
+% 1. Define Fonts (Matches your previous look)
+\titleformat{\section}{\rmfamily\mdseries\Large}{}{0em}{}
+\titleformat{\subsection}{\rmfamily\mdseries\scshape\normalsize}{}{0em}{}
+
+% 2. Define Spacing: \titlespacing*{command}{left}{before}{after}
+% "After" is the last number. I set it to 0.2em (very tight).
+\titlespacing*{\section}{0pt}{12pt plus 4pt minus 2pt}{0.7em} 
+\titlespacing*{\subsection}{0pt}{10pt plus 4pt minus 2pt}{0.3em}
+
+% Reduced paragraph spacing
+\setlength\parindent{0em}
+\setlength\parskip{0.025em}
+
+% Make lists more compact
+\renewenvironment{itemize}{
+  \begin{list}{}
+    { \setlength{\itemsep}{2pt} % Reduced item separation
+      \setlength{\parsep}{0pt}
+      \setlength{\topsep}{0pt}
+      \setlength{\leftmargin}{0em} } }{
+  \end{list}}
+
+\begin{document}
+
+{\huge\bf  Diego Andres Briones}
+
+% --- CONDENSED CONTACT INFO BLOCK ---
+\begin{minipage}[t]{0.5\textwidth}
+    \vspace{0pt}
+    Department of Economics\\
+    University of Virginia\\
+    Monroe Hall, 248 McCormick Rd \\
+    Charlottesville, VA 22904
+\end{minipage}%
+\begin{minipage}[t]{0.5\textwidth}
+    \vspace{0pt}
+    Email: \href{mailto:dab5xq@virginia.edu}{\tt dab5xq@virginia.edu} \\
+    URL: \href{https://diego-briones.github.io/}{\tt https://diego-briones.github.io/} \\
+    Citizenship: United States, Chile
+\end{minipage}
+
+\section*{Education}
+\begin{itemize}
+\item Ph.D. Economics, University of Virginia, 2026 (Expected)
+\begin{itemize}
+    \item [] Committee: 
+     \begin{enumerate}
+     \item Sarah Turner (primary), \href{mailto:set5h@virginia.edu}{\tt set5h@virginia.edu}, 434-982-2383
+     \item Leora Friedberg, \href{mailto:lf6s@virginia.edu}{\tt lf6s@virginia.edu}
+     \item Amalia Miller, \href{mailto:armiller@virginia.edu}{\tt armiller@virginia.edu}
+ \end{enumerate}
+\end{itemize}
+\item M.A. Economics, University of Virginia, 2022
+\item M.P.P. Public Policy, University of Connecticut, 2018
+\item B.S. Management, University of Connecticut, 2016, \textit{Summa Cum Laude}
+\end{itemize}
+
+\vspace{0.3cm}
+{\large Fields of Interest:} Labor Economics, Public Economics, Economics of Education, Household Finance
+
+\section*{Job Market Paper}
+\href{http://diego-briones.github.io/files/briones_jmp.pdf}{''Credit Scars: Credit Reporting Relief for Defaulted Student Loan Borrowers''}
+
+\section*{Publications}
+\begin{itemize}
+
+\item Briones, D. A., Ruby, N., \& Turner, S. (2024). Waivers for the public service loan forgiveness program: Who could benefit from take-up?. \textit{Journal of Policy Analysis and Management}, 43, 1004–1033.
+    \begin{itemize}
+    \item [] \href{https://doi.org/10.1002/pam.22566}{JPAM version}; \href{http://www.nber.org/papers/w30208}{NBER Working Paper \#30208}
+    \end{itemize}
+    
+\end{itemize}
+
+\section*{Working Papers}
+\begin{itemize}
+    \item ``Voting on a Promise: Did the Proposed Student Loan Forgiveness Impact Electoral Outcomes?,'' with Arnav Dharmagadda and Jaden Shawyer. 
+
+    \item ``Labor, Loans, and Leisure: The Impact of the Student Loan Payment Pause,'' with Sarah Turner. \\ \textbf{Revise \& resubmit at the \textit{Review of Economics and Statistics}}\\ (\href{https://www.nber.org/papers/w33553}{NBER Working Paper \#33553})
+
+\end{itemize}
+
+
+\section*{Other Publications}
+\begin{itemize}
+\item \href{https://www.thirdway.org/report/revitalizing-pslf-whats-next-after-the-waiver}{``Revitalizing PSLF: What's Next After the Waiver.''} (2023). \textit{Third Way Policy Brief}.
+\item \href{https://www.educationnext.org/student-loan-payment-pause-benefits-high-income-households-most-borrowers-unprotected-from-risk/}{``Student Loan Payment Pause Benefits High-Income Households the Most,''} with E. Powell and S. Turner. (2023). \textit{Education Next}, 23(3), 40-47.
+\item \href{https://www.aei.org/wp-content/uploads/2022/01/Student-Outcomes-and-Earnings-in-Higher-Education-Policy.pdf?x91208}{``Performance Measures and Postsecondary Investments for Adult Students,''} with S. Turner. (2022). In \textit{Student Outcomes and Earnings in Higher Education Policy}.
+\end{itemize}
+
+\section*{Selected Work in Progress}
+\begin{itemize}
+
+\item ``A Fresh Start for Borrowers? Impacts of Loan Rehabilitation for Defaulted Federal Student Borrowers''
+
+\item ``The Long Term Impacts of English Learner Programs: Evidence from Bilingual Education in Texas''  \textit{University of Houston Education Research Center Approved Project No. UH 037}
+
+\end{itemize}
+
+\newpage
+
+\section*{Awards \& Honors}
+\begin{itemize}
+\item Snavley Prize for Excellence in Teaching, Fall 2025
+\item Granite Oak Graduate Fellowship in Economics, 2025-2026
+\item Bankard Fund for Political Economy Fellowship, 2025
+\item Marshall Jevons Fund, 2024
+\item Jefferson Scholars Foundation Fellow, 2023
+\item Emerging Scholar, Student Loan Law Initiative, 2023
+\item Junior Fellow, Society of Fellows, University of Virginia, 2022
+\item Non-Faculty Mentor, Ed Policy Associates, 2022-Present
+\item Mentee, AEA CSMGEP Mentoring Program, 2021-Present
+\item New England Scholar Award, 2014 \& 2015
+\end{itemize}
+
+\section*{Referee Service}
+\textit{Educational Evaluation and Policy Analysis, Journal of Environmental Economics and Management, Journal of Law \& Economics, Journal of Policy Analysis and Management}
+
+\section*{Selected Presentations}
+\begin{itemize}
+\item \textbf{2026 (scheduled):} CESifo Junior Workshop on the Economics of Education, Society of Labor Economists (SOLE)
+\item \textbf{2025:} Amherst College
+\item \textbf{2024:} Quantitative Collaborative (UVa), AEA Mentoring Workshop, U.S. Census Bureau Center for Economic Studies, Jefferson Scholars Foundation Symposium
+\item \textbf{2023:} U.S. Census Bureau SIPP Conference, Education Policy Associates (UVa)
+\end{itemize}
+
+\section*{Research \& Teaching Experience}
+\begin{itemize}
+\item \textbf{University of Virginia}
+    \begin{itemize}
+    \item \textit{Research Assistant}: Sarah Turner, 2020-2023
+    \item \textit{Teaching Assistant}: Introduction to Econometrics (S26), Economics of Education (F25), Principles of Macroeconomics (S25), Principles of Microeconomics (F20)
+    \item \textit{Guest Lecturer}: Funding Government Services (F25), Batten School of Leadership and Public Policy
+    \end{itemize}
+\item \textbf{University of Connecticut}
+    \begin{itemize}
+    \item \textit{Research Assistant}: Eric Brunner (2016-2019) and Joshua Hyman (2016-2019)
+    \item \textit{Teaching Assistant}: Applied Quantitative Methods (F18)
+    \end{itemize}
+\end{itemize}
+
+\section*{Research Assistants \& Mentoring}
+
+\textbf{Current:}
+\begin{itemize}
+\item Rose Haron, 2024-Present
+\item Arnav Dharmagadda, 2023-Present 
+\item Jaden Shawyer, 2023-Present
+\end{itemize}
+
+\textbf{Former (Initial Placement):}
+\begin{itemize}
+\item Eileen Powell, 2021-2024 (Brookings, The Hamilton Project)
+\item Elizabeth Link, 2022-2024 (Blueprint Labs)
+\item Syrell Grier, 2023-2024
+\item Victor Sanchez, 2021-2022 (Ph.D. Student, Teachers College)
+\item Katharine Shriver, 2021-2022 (PwC)
+\item Morgan Ackley, 2021-2022 (Bates White)
+\item Sukanya Barman, 2021-2022 (MDRC)
+\end{itemize}
+
+\end{document}

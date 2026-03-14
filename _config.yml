@@ -124,6 +124,7 @@ include:
   - files
 exclude:
   - GEMINI.md
+  - _cv_source
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
