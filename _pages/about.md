@@ -27,9 +27,7 @@ redirect_from:
   }
 </style>
 
-I am a Ph.D. Candidate in Economics at the University of Virginia. I am an applied microeconomist with research interests in labor economics, public economics, economics of education, and household finance. My current research largely focuses on the economic consequences of government education financing programs, with a particular emphasis on student debt and consumer credit markets. 
-
-**I am on the 2025-26 job market**
+I am a Ph.D. Candidate in Economics at the University of Virginia. Starting in Summer 2026, I will be a Postdoctoral Scholar in the Department of Economics at The Ohio State University. I am an applied microeconomist with research interests in labor economics, public economics, economics of education, and household finance. My current research largely focuses on the economic consequences of government education financing programs, with a particular emphasis on student debt and consumer credit markets. 
 
 My dissertation work is supported in part by the <a href="https://www.jeffersonscholars.org/" target="_blank" rel="noopener noreferrer"> Jefferson Scholars Foundation</a>, the <a href="https://www.slli.org/emerging-scholars-program" target="_blank" rel="noopener noreferrer"> University of California Student Loan Law Initiative</a>, and the <a href="https://research.virginia.edu/initiatives/internal-funding/ovpr-funding-opportunities/bankard-fund-political-economy" target="_blank" rel="noopener noreferrer"> Bankard Fund for Political Economy</a>.
 
